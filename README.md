@@ -6,6 +6,8 @@
 
 I'm a Computer Science student who just graduated. I’m from Malaysia, living in Gombak. I enjoy spending my free time cooking and taking online courses.  I'm a lifelong learner who is always willing to brush up on my abilities to keep up with the demands of my employer! You can find me on [![LinkedIn][3.2]][3].
 
+![Thank you Farhana](https://user-images.githubusercontent.com/91973389/141606984-585759b1-a011-4488-95f6-fc8bd3eb5c43.png)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)

@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Computer Science student who just graduated. I’m from Malaysia, living in Gombak. I enjoy spending my free time cooking and taking online courses.  I'm a lifelong learner who is always willing to brush up on my abilities to keep up with the demands of my employer! You can find me on [![LinkedIn][3.2]][3].
+I'm a Computer Science student who just graduated. I’m from Malaysia, living in Gombak. I enjoy spending my free time cooking and taking online courses.  I'm a lifelong learner who is always willing to brush up on my abilities to keep up with the technology trends ! You can also find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
